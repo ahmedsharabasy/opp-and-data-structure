@@ -1,0 +1,82 @@
+A property is like a combination of a variable and a method, and it has two methods: a get and a set method
+
+                       ***********************************************************************
+
+C# also provides a way to use short-hand / automatic properties, where you do not have to define the field for the property,
+ and you only have to write get; and set; inside the property.
+
+                       ***********************************************************************
+
+Inheritance lets us inherit fields and methods from another class. Polymorphism uses those methods to perform different tasks. 
+ This allows us to perform a single action in different ways.
+
+                       **********************************************************************
+
+The output from the example above was probably not what you expected. 
+That is because the base class method overrides the derived class method, when they share the same name.
+\/
+However, C# provides an option to override the base class method, by adding the virtual keyword to the method inside the base class, 
+and by using the override keyword for each derived class methods.
+
+                       ***********************************************************************
+
+Data abstraction is the process of hiding certain details and showing only essential information to the user.
+Abstraction can be achieved with either abstract classes or interfaces (which you will learn more about in the next chapter).
+
+The abstract keyword is used for classes and methods:
+
+Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
+
+Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the derived class (inherited from).
+
+                       ***********************************************************************
+
+Another way to achieve abstraction in C#, is with interfaces.
+
+An interface is a completely "abstract class", which can only contain abstract methods and properties (with empty bodies).
+
+                       ***********************************************************************
+
+By default, members of an interface are abstract and public.
+
+Note: Interfaces can contain properties and methods, but not fields.
+
+                       ***********************************************************************
+
+Notes on Interfaces:
+*Like abstract classes, interfaces cannot be used to create objects (in the example above, 
+it is not possible to create an "IAnimal" object in the Program class)
+*Interface methods do not have a body - the body is provided by the "implement" class
+On implementation of an interface, you must override all of its methods
+*Interfaces can contain properties and methods, but not fields/variables
+*Interface members are by default abstract and public
+*An interface cannot contain a constructor (as it cannot be used to create objects)
+
+Why And When To Use Interfaces?
+1) To achieve security - hide certain details and only show the important details of an object (interface).
+
+2) C# does not support "multiple inheritance" (a class can only inherit from one base class). However,
+ it can be achieved with interfaces, because the class can implement multiple interfaces. 
+Note: To implement multiple interfaces, separate them with a comma (see example below).
+
+                       ***********************************************************************
+
+An enum is a special "class" that represents a group of constants (unchangeable/read-only variables).
+
+To create an enum, use the enum keyword (instead of class or interface), and separate the enum items with a comma.
+By default, the first item of an enum has the value 0. The second has the value 1, and so on.
+
+To get the integer value from an item, you must explicitly convert the item to an int.
+You can also assign your own enum values, and the next items will update the number accordingly.
+
+                       ***********************************************************************
+
+The try statement allows you to define a block of code to be tested for errors while it is being executed.
+
+The catch statement allows you to define a block of code to be executed, if an error occurs in the try block.
+If an error occurs, we can use try...catch to catch the error and execute some code to handle it.
+
+In the following example, we use the variable inside the catch block (e) together with the built-in Message property,
+ which outputs a message that describes the exception
+
+                       ***********************************************************************

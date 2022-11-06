@@ -1,0 +1,14 @@
+D:\c# projects\DiceRolling_program\obj\Debug\DiceRolling_program.csprojAssemblyReference.cache
+D:\c# projects\DiceRolling_program\obj\Debug\DiceRolling_program.csproj.CoreCompileInputs.cache
+D:\c# projects\DiceRolling_program\bin\Debug\DiceRolling_program.exe.config
+D:\c# projects\DiceRolling_program\bin\Debug\DiceRolling_program.exe
+D:\c# projects\DiceRolling_program\bin\Debug\DiceRolling_program.pdb
+D:\c# projects\DiceRolling_program\obj\Debug\DiceRolling_program.exe
+D:\c# projects\DiceRolling_program\obj\Debug\DiceRolling_program.pdb
+C:\Users\East-Sound\Desktop\c# projects\DiceRolling_program\bin\Debug\DiceRolling_program.exe.config
+C:\Users\East-Sound\Desktop\c# projects\DiceRolling_program\bin\Debug\DiceRolling_program.exe
+C:\Users\East-Sound\Desktop\c# projects\DiceRolling_program\bin\Debug\DiceRolling_program.pdb
+C:\Users\East-Sound\Desktop\c# projects\DiceRolling_program\obj\Debug\DiceRolling_program.csprojAssemblyReference.cache
+C:\Users\East-Sound\Desktop\c# projects\DiceRolling_program\obj\Debug\DiceRolling_program.csproj.CoreCompileInputs.cache
+C:\Users\East-Sound\Desktop\c# projects\DiceRolling_program\obj\Debug\DiceRolling_program.exe
+C:\Users\East-Sound\Desktop\c# projects\DiceRolling_program\obj\Debug\DiceRolling_program.pdb

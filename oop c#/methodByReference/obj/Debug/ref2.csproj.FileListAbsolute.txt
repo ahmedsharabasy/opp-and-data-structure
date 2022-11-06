@@ -1,0 +1,13 @@
+D:\c# projects\oop حسونه\ref2\obj\Debug\ref2.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\ref2\bin\Debug\ref2.exe.config
+D:\c# projects\oop حسونه\ref2\bin\Debug\ref2.exe
+D:\c# projects\oop حسونه\ref2\bin\Debug\ref2.pdb
+D:\c# projects\oop حسونه\ref2\obj\Debug\ref2.exe
+D:\c# projects\oop حسونه\ref2\obj\Debug\ref2.pdb
+E:\c# projects\oop حسونه\methodByReference\bin\Debug\ref2.exe.config
+E:\c# projects\oop حسونه\methodByReference\bin\Debug\ref2.exe
+E:\c# projects\oop حسونه\methodByReference\bin\Debug\ref2.pdb
+E:\c# projects\oop حسونه\methodByReference\obj\Debug\ref2.csproj.AssemblyReference.cache
+E:\c# projects\oop حسونه\methodByReference\obj\Debug\ref2.csproj.CoreCompileInputs.cache
+E:\c# projects\oop حسونه\methodByReference\obj\Debug\ref2.exe
+E:\c# projects\oop حسونه\methodByReference\obj\Debug\ref2.pdb

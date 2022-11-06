@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\string_array\bin\Debug\string_array.exe.config
+D:\c# projects\oop حسونه\string_array\bin\Debug\string_array.exe
+D:\c# projects\oop حسونه\string_array\bin\Debug\string_array.pdb
+D:\c# projects\oop حسونه\string_array\obj\Debug\string_array.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\string_array\obj\Debug\string_array.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\string_array\obj\Debug\string_array.exe
+D:\c# projects\oop حسونه\string_array\obj\Debug\string_array.pdb

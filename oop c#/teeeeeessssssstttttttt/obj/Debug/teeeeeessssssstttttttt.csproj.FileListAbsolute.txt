@@ -1,0 +1,14 @@
+D:\c# projects\oop حسونه\teeeeeessssssstttttttt\bin\Debug\teeeeeessssssstttttttt.exe.config
+D:\c# projects\oop حسونه\teeeeeessssssstttttttt\bin\Debug\teeeeeessssssstttttttt.exe
+D:\c# projects\oop حسونه\teeeeeessssssstttttttt\bin\Debug\teeeeeessssssstttttttt.pdb
+D:\c# projects\oop حسونه\teeeeeessssssstttttttt\obj\Debug\teeeeeessssssstttttttt.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\teeeeeessssssstttttttt\obj\Debug\teeeeeessssssstttttttt.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\teeeeeessssssstttttttt\obj\Debug\teeeeeessssssstttttttt.exe
+D:\c# projects\oop حسونه\teeeeeessssssstttttttt\obj\Debug\teeeeeessssssstttttttt.pdb
+E:\c# projects\oop حسونه\teeeeeessssssstttttttt\bin\Debug\teeeeeessssssstttttttt.exe.config
+E:\c# projects\oop حسونه\teeeeeessssssstttttttt\bin\Debug\teeeeeessssssstttttttt.exe
+E:\c# projects\oop حسونه\teeeeeessssssstttttttt\bin\Debug\teeeeeessssssstttttttt.pdb
+E:\c# projects\oop حسونه\teeeeeessssssstttttttt\obj\Debug\teeeeeessssssstttttttt.csproj.AssemblyReference.cache
+E:\c# projects\oop حسونه\teeeeeessssssstttttttt\obj\Debug\teeeeeessssssstttttttt.csproj.CoreCompileInputs.cache
+E:\c# projects\oop حسونه\teeeeeessssssstttttttt\obj\Debug\teeeeeessssssstttttttt.exe
+E:\c# projects\oop حسونه\teeeeeessssssstttttttt\obj\Debug\teeeeeessssssstttttttt.pdb

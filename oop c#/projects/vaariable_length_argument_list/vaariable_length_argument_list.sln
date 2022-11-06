@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vaariable_length_argument_list", "vaariable_length_argument_list\vaariable_length_argument_list.csproj", "{81B4FCF0-2E3D-451A-8D78-D45EE7BD6691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B4FCF0-2E3D-451A-8D78-D45EE7BD6691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B4FCF0-2E3D-451A-8D78-D45EE7BD6691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B4FCF0-2E3D-451A-8D78-D45EE7BD6691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B4FCF0-2E3D-451A-8D78-D45EE7BD6691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {772BAE0E-588D-418B-AB86-97FC5F88FA3B}
+	EndGlobalSection
+EndGlobal

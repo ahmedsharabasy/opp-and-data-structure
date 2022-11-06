@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\EmployeeTest\bin\Debug\EmployeeTest.exe.config
+D:\c# projects\oop حسونه\EmployeeTest\bin\Debug\EmployeeTest.exe
+D:\c# projects\oop حسونه\EmployeeTest\bin\Debug\EmployeeTest.pdb
+D:\c# projects\oop حسونه\EmployeeTest\obj\Debug\EmployeeTest.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\EmployeeTest\obj\Debug\EmployeeTest.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\EmployeeTest\obj\Debug\EmployeeTest.exe
+D:\c# projects\oop حسونه\EmployeeTest\obj\Debug\EmployeeTest.pdb

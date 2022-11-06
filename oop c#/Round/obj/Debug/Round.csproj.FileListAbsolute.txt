@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\Round\obj\Debug\Round.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\Round\obj\Debug\Round.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\Round\bin\Debug\Round.exe.config
+D:\c# projects\oop حسونه\Round\bin\Debug\Round.exe
+D:\c# projects\oop حسونه\Round\bin\Debug\Round.pdb
+D:\c# projects\oop حسونه\Round\obj\Debug\Round.exe
+D:\c# projects\oop حسونه\Round\obj\Debug\Round.pdb

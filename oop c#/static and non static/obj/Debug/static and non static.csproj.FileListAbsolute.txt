@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\static and non static\bin\Debug\static and non static.exe.config
+D:\c# projects\oop حسونه\static and non static\bin\Debug\static and non static.exe
+D:\c# projects\oop حسونه\static and non static\bin\Debug\static and non static.pdb
+D:\c# projects\oop حسونه\static and non static\obj\Debug\static and non static.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\static and non static\obj\Debug\static and non static.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\static and non static\obj\Debug\static and non static.exe
+D:\c# projects\oop حسونه\static and non static\obj\Debug\static and non static.pdb

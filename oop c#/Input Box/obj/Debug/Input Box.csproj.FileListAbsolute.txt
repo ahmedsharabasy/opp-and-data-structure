@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\Input Box\bin\Debug\Input Box.exe.config
+D:\c# projects\oop حسونه\Input Box\bin\Debug\Input Box.exe
+D:\c# projects\oop حسونه\Input Box\bin\Debug\Input Box.pdb
+D:\c# projects\oop حسونه\Input Box\obj\Debug\Input Box.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\Input Box\obj\Debug\Input Box.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\Input Box\obj\Debug\Input Box.exe
+D:\c# projects\oop حسونه\Input Box\obj\Debug\Input Box.pdb

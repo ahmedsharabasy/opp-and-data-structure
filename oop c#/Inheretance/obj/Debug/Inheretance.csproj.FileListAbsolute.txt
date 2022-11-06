@@ -1,0 +1,14 @@
+D:\c# projects\oop حسونه\Inheretance\bin\Debug\Inheretance.exe.config
+D:\c# projects\oop حسونه\Inheretance\bin\Debug\Inheretance.exe
+D:\c# projects\oop حسونه\Inheretance\bin\Debug\Inheretance.pdb
+D:\c# projects\oop حسونه\Inheretance\obj\Debug\Inheretance.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\Inheretance\obj\Debug\Inheretance.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\Inheretance\obj\Debug\Inheretance.exe
+D:\c# projects\oop حسونه\Inheretance\obj\Debug\Inheretance.pdb
+E:\c# projects\oop حسونه\Inheretance\bin\Debug\Inheretance.exe.config
+E:\c# projects\oop حسونه\Inheretance\bin\Debug\Inheretance.exe
+E:\c# projects\oop حسونه\Inheretance\bin\Debug\Inheretance.pdb
+E:\c# projects\oop حسونه\Inheretance\obj\Debug\Inheretance.csproj.AssemblyReference.cache
+E:\c# projects\oop حسونه\Inheretance\obj\Debug\Inheretance.csproj.CoreCompileInputs.cache
+E:\c# projects\oop حسونه\Inheretance\obj\Debug\Inheretance.exe
+E:\c# projects\oop حسونه\Inheretance\obj\Debug\Inheretance.pdb

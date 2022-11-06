@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\Employee_data\obj\Debug\Employee_data.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\Employee_data\obj\Debug\Employee_data.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\Employee_data\bin\Debug\Employee_data.exe.config
+D:\c# projects\oop حسونه\Employee_data\bin\Debug\Employee_data.exe
+D:\c# projects\oop حسونه\Employee_data\bin\Debug\Employee_data.pdb
+D:\c# projects\oop حسونه\Employee_data\obj\Debug\Employee_data.exe
+D:\c# projects\oop حسونه\Employee_data\obj\Debug\Employee_data.pdb

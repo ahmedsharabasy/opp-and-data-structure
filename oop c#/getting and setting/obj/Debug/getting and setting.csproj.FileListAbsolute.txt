@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\getting and setting\obj\Debug\getting and setting.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\getting and setting\obj\Debug\getting and setting.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\getting and setting\bin\Debug\getting and setting.exe.config
+D:\c# projects\oop حسونه\getting and setting\bin\Debug\getting and setting.exe
+D:\c# projects\oop حسونه\getting and setting\bin\Debug\getting and setting.pdb
+D:\c# projects\oop حسونه\getting and setting\obj\Debug\getting and setting.exe
+D:\c# projects\oop حسونه\getting and setting\obj\Debug\getting and setting.pdb

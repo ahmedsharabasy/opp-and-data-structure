@@ -1,0 +1,2 @@
+D:\c# projects\DiceRolling\obj\Debug\DiceRolling.csprojAssemblyReference.cache
+D:\c# projects\DiceRolling\obj\Debug\DiceRolling.csproj.CoreCompileInputs.cache

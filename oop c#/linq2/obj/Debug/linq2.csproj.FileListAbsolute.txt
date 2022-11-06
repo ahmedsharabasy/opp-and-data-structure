@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\linq2\bin\Debug\linq2.exe.config
+D:\c# projects\oop حسونه\linq2\bin\Debug\linq2.exe
+D:\c# projects\oop حسونه\linq2\bin\Debug\linq2.pdb
+D:\c# projects\oop حسونه\linq2\obj\Debug\linq2.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\linq2\obj\Debug\linq2.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\linq2\obj\Debug\linq2.exe
+D:\c# projects\oop حسونه\linq2\obj\Debug\linq2.pdb

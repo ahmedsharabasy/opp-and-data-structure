@@ -1,0 +1,7 @@
+D:\c# projects\duplicate_Eliminatioln\bin\Debug\duplicate_Eliminatioln.exe.config
+D:\c# projects\duplicate_Eliminatioln\bin\Debug\duplicate_Eliminatioln.exe
+D:\c# projects\duplicate_Eliminatioln\bin\Debug\duplicate_Eliminatioln.pdb
+D:\c# projects\duplicate_Eliminatioln\obj\Debug\duplicate_Eliminatioln.csprojAssemblyReference.cache
+D:\c# projects\duplicate_Eliminatioln\obj\Debug\duplicate_Eliminatioln.csproj.CoreCompileInputs.cache
+D:\c# projects\duplicate_Eliminatioln\obj\Debug\duplicate_Eliminatioln.exe
+D:\c# projects\duplicate_Eliminatioln\obj\Debug\duplicate_Eliminatioln.pdb

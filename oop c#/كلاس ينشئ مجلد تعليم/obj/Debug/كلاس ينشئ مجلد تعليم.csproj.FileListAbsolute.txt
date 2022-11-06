@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\كلاس ينشئ مجلد تعليم\bin\Debug\كلاس ينشئ مجلد تعليم.exe.config
+D:\c# projects\oop حسونه\كلاس ينشئ مجلد تعليم\bin\Debug\كلاس ينشئ مجلد تعليم.exe
+D:\c# projects\oop حسونه\كلاس ينشئ مجلد تعليم\bin\Debug\كلاس ينشئ مجلد تعليم.pdb
+D:\c# projects\oop حسونه\كلاس ينشئ مجلد تعليم\obj\Debug\كلاس ينشئ مجلد تعليم.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\كلاس ينشئ مجلد تعليم\obj\Debug\كلاس ينشئ مجلد تعليم.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\كلاس ينشئ مجلد تعليم\obj\Debug\كلاس ينشئ مجلد تعليم.exe
+D:\c# projects\oop حسونه\كلاس ينشئ مجلد تعليم\obj\Debug\كلاس ينشئ مجلد تعليم.pdb

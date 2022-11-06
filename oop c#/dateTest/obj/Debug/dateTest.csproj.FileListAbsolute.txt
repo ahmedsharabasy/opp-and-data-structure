@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\dateTest\obj\Debug\dateTest.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\dateTest\obj\Debug\dateTest.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\dateTest\bin\Debug\dateTest.exe.config
+D:\c# projects\oop حسونه\dateTest\bin\Debug\dateTest.exe
+D:\c# projects\oop حسونه\dateTest\bin\Debug\dateTest.pdb
+D:\c# projects\oop حسونه\dateTest\obj\Debug\dateTest.exe
+D:\c# projects\oop حسونه\dateTest\obj\Debug\dateTest.pdb

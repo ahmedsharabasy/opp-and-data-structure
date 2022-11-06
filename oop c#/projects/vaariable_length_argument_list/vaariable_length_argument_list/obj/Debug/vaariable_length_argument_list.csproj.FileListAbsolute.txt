@@ -1,0 +1,7 @@
+E:\c# projects.AHM\vaariable_length_argument_list\vaariable_length_argument_list\obj\Debug\vaariable_length_argument_list.csprojAssemblyReference.cache
+E:\c# projects.AHM\vaariable_length_argument_list\vaariable_length_argument_list\obj\Debug\vaariable_length_argument_list.csproj.CoreCompileInputs.cache
+E:\c# projects.AHM\vaariable_length_argument_list\vaariable_length_argument_list\bin\Debug\vaariable_length_argument_list.exe.config
+E:\c# projects.AHM\vaariable_length_argument_list\vaariable_length_argument_list\bin\Debug\vaariable_length_argument_list.exe
+E:\c# projects.AHM\vaariable_length_argument_list\vaariable_length_argument_list\bin\Debug\vaariable_length_argument_list.pdb
+E:\c# projects.AHM\vaariable_length_argument_list\vaariable_length_argument_list\obj\Debug\vaariable_length_argument_list.exe
+E:\c# projects.AHM\vaariable_length_argument_list\vaariable_length_argument_list\obj\Debug\vaariable_length_argument_list.pdb

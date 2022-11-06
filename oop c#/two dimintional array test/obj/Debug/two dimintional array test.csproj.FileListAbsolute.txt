@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\two dimintional array test\bin\Debug\two dimintional array test.exe.config
+D:\c# projects\oop حسونه\two dimintional array test\bin\Debug\two dimintional array test.exe
+D:\c# projects\oop حسونه\two dimintional array test\bin\Debug\two dimintional array test.pdb
+D:\c# projects\oop حسونه\two dimintional array test\obj\Debug\two dimintional array test.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\two dimintional array test\obj\Debug\two dimintional array test.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\two dimintional array test\obj\Debug\two dimintional array test.exe
+D:\c# projects\oop حسونه\two dimintional array test\obj\Debug\two dimintional array test.pdb

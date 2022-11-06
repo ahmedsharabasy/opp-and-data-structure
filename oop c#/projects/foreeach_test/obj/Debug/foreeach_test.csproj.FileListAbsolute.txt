@@ -1,0 +1,7 @@
+D:\c# projects\foreeach_test\bin\Debug\foreeach_test.exe.config
+D:\c# projects\foreeach_test\bin\Debug\foreeach_test.exe
+D:\c# projects\foreeach_test\bin\Debug\foreeach_test.pdb
+D:\c# projects\foreeach_test\obj\Debug\foreeach_test.csprojAssemblyReference.cache
+D:\c# projects\foreeach_test\obj\Debug\foreeach_test.csproj.CoreCompileInputs.cache
+D:\c# projects\foreeach_test\obj\Debug\foreeach_test.exe
+D:\c# projects\foreeach_test\obj\Debug\foreeach_test.pdb

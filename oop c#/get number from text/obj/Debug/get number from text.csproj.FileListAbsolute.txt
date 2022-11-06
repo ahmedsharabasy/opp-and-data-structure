@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\get number from text\bin\Debug\get number from text.exe.config
+D:\c# projects\oop حسونه\get number from text\bin\Debug\get number from text.exe
+D:\c# projects\oop حسونه\get number from text\bin\Debug\get number from text.pdb
+D:\c# projects\oop حسونه\get number from text\obj\Debug\get number from text.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\get number from text\obj\Debug\get number from text.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\get number from text\obj\Debug\get number from text.exe
+D:\c# projects\oop حسونه\get number from text\obj\Debug\get number from text.pdb

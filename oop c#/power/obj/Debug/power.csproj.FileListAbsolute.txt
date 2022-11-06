@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\power\bin\Debug\power.exe.config
+D:\c# projects\oop حسونه\power\bin\Debug\power.exe
+D:\c# projects\oop حسونه\power\bin\Debug\power.pdb
+D:\c# projects\oop حسونه\power\obj\Debug\power.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\power\obj\Debug\power.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\power\obj\Debug\power.exe
+D:\c# projects\oop حسونه\power\obj\Debug\power.pdb

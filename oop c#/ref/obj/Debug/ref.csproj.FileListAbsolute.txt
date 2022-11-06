@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\ref\bin\Debug\@ref.exe.config
+D:\c# projects\oop حسونه\ref\bin\Debug\@ref.exe
+D:\c# projects\oop حسونه\ref\bin\Debug\@ref.pdb
+D:\c# projects\oop حسونه\ref\obj\Debug\ref.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\ref\obj\Debug\ref.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\ref\obj\Debug\@ref.exe
+D:\c# projects\oop حسونه\ref\obj\Debug\@ref.pdb

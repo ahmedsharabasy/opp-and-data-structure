@@ -1,0 +1,7 @@
+D:\c# projects\oop حسونه\calculator\bin\Debug\calculator.exe.config
+D:\c# projects\oop حسونه\calculator\bin\Debug\calculator.exe
+D:\c# projects\oop حسونه\calculator\bin\Debug\calculator.pdb
+D:\c# projects\oop حسونه\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\c# projects\oop حسونه\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\c# projects\oop حسونه\calculator\obj\Debug\calculator.exe
+D:\c# projects\oop حسونه\calculator\obj\Debug\calculator.pdb
