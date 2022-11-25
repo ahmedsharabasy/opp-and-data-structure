@@ -1,0 +1,24 @@
+import sqlite3
+db=sqlite3.connect("training.db")
+cr=db.cursor()
+
+cr.execute("create table if not exists users (user_id INTEGER, name TEXT)")
+cr.execute("create table if not exists skills (user_id INTEGER, name TEXT, progress INTEGER)")
+
+my_list=["ahmed","amir","mohamed","ali",
+         "sara","hesham","ragb","eman"]
+
+#progress=[55,44,77,88,999,36,5,6]         
+for key, user in enumerate(my_list) :
+    cr.execute(f"insert into users(user_id,name) values({key+1 },'{user}')")
+
+# for key, skill in enumerate(my_list):
+#     cr.execute(f"insert into skills(user_id,name) values({key+1 },'{user}')")    
+
+# for pro in progress:
+#     cr.execute(f"insert into skills(progress) values({pro})")
+
+
+
+db.commit()
+db.close()    
